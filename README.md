@@ -151,4 +151,4 @@ Push & open a PR
 This project is deployed using **Vercel**:
 
 - **Frontend (React + Vite)**: [https://multi-tenant-saa-s-notes-applicatio-ashen.vercel.app/](https://multi-tenant-saa-s-notes-applicatio-ashen.vercel.app/)  
-- **Backend (Express + MongoDB)**: [multi-tenant-saa-s-notes-applicatio-self.vercel.app](multi-tenant-saa-s-notes-applicatio-self.vercel.app)  
+- **Backend (Express + MongoDB)**: [multi-tenant-saa-s-notes-a-git-eb4e7a-dakshayani-arles-projects.vercel.app](multi-tenant-saa-s-notes-a-git-eb4e7a-dakshayani-arles-projects.vercel.app)  
