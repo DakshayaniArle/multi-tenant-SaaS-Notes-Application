@@ -13,7 +13,18 @@ await connectDB();
 
 
 const app = express();
-app.use(cors());
+
+const allowedOrigins = [
+  "https://multi-tenant-saa-s-notes-applicatio-ashen.vercel.app", // frontend domain
+];
+
+app.use(cors({
+  origin: allowedOrigins,
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization"],
+  credentials: true
+}));
+
 app.use(express.json());
 
 app.use("/api/auth",authRoutes);

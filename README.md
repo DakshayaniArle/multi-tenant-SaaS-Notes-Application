@@ -1,4 +1,4 @@
-📝 Multi-Tenant Notes App (SaaS)
+# 📝 Multi-Tenant Notes App (SaaS)
 
 A modern multi-tenant SaaS Notes application built with React (Vite), TailwindCSS, Node.js/Express, and MongoDB/Postgres.
 It supports tenant-based isolation, role-based access control (RBAC), user invitations, and subscription upgrades — a solid foundation for real SaaS applications.
