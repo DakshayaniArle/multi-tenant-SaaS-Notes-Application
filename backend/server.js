@@ -27,7 +27,9 @@ app.get("/api/health",(req,res)=>{// contains { slug, name }
 })
 
 
-const PORT = process.env.PORT || 5000;
-app.listen(PORT,()=>{
-    console.log(`server is running at port ${PORT}.........`);
-})
+// const PORT = process.env.PORT || 5000;
+// app.listen(PORT,()=>{
+//     console.log(`server is running at port ${PORT}.........`);
+// })
+
+export default app 
