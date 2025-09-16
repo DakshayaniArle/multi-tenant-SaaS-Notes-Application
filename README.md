@@ -145,3 +145,10 @@ Create a feature branch (feature/new-feature)
 Commit changes
 
 Push & open a PR
+
+## 🚀 Deployment
+
+This project is deployed using **Vercel**:
+
+- **Frontend (React + Vite)**: [https://multi-tenant-saa-s-notes-applicatio-ashen.vercel.app/](https://multi-tenant-saa-s-notes-applicatio-ashen.vercel.app/)  
+- **Backend (Express + MongoDB)**: [multi-tenant-saa-s-notes-applicatio-self.vercel.app](multi-tenant-saa-s-notes-applicatio-self.vercel.app)  
